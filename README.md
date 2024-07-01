@@ -17,3 +17,10 @@ $ npm install
 $ npm run dev
 ```
 This will start a dev server at http://localhost:5173/
+
+## Init Kaboom
+```js
+import kaboom from "kaboom";
+
+kaboom();
+```
