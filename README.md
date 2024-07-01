@@ -19,6 +19,7 @@ $ npm run dev
 This will start a dev server at http://localhost:5173/
 
 ## Init Kaboom
+Add this to your <code>main.js</code>
 ```js
 import kaboom from "kaboom";
 
